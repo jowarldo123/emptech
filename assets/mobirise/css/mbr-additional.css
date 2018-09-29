@@ -17,14 +17,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'font';
+  font-family: 'jojo';
   font-size: 3.8rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'naruto';
+  font-family: 'naruto2';
   font-size: 1.5rem;
 }
 .display-2 > .mbr-iconfont {
@@ -32,13 +32,13 @@ body {
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
-  font-size: 4rem;
+  font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'one piece';
+  font-family: 'one piece 2';
   font-size: 5rem;
 }
 .display-5 > .mbr-iconfont {
@@ -46,10 +46,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.4rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -68,9 +68,9 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 4rem;
@@ -656,13 +656,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.4rem;
 }
 .form-control,
 .form-control:focus {
@@ -3630,7 +3630,7 @@ body {
 .cid-r4Ekaayqtt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dragon-ball-super-760x107438.jpg");
+  background-image: url("../../../assets/images/dragon-ball-super-760x107440.jpg");
 }
 @media (min-width: 992px) {
   .cid-r4Ekaayqtt .mbr-figure {
@@ -4758,7 +4758,7 @@ body {
 }
 .cid-r4Est6iZFr .mbr-text,
 .cid-r4Est6iZFr .mbr-section-btn {
-  color: #efefef;
+  color: #000000;
 }
 .cid-r50EAk4jrR {
   padding-top: 90px;
@@ -5302,6 +5302,9 @@ body {
     text-align: center;
   }
 }
+.cid-r4EuaKapGK B {
+  color: #efefef;
+}
 .cid-r4EkLXWI1n {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -5777,6 +5780,12 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/ds-2000x1125.jpg");
 }
+.cid-r4EkN7mj36 .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-r4EkN7mj36 .mbr-section-subtitle B {
+  color: #ffffff;
+}
 .cid-r4EkN7Pk6L {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -5807,7 +5816,7 @@ body {
 .cid-r4Etyhb2Zt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/doki-doki-732x109239.png");
+  background-image: url("../../../assets/images/doki-doki-732x109241.png");
 }
 @media (min-width: 992px) {
   .cid-r4Etyhb2Zt .mbr-figure {
@@ -6351,7 +6360,7 @@ body {
 .cid-r51fX7DezC {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-color: #465052;
 }
 .cid-r51fX7DezC .testimonial-text {
   font-style: italic;
@@ -6384,7 +6393,7 @@ body {
 .cid-r51TPORbkm {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-color: #465052;
 }
 .cid-r51TPORbkm .testimonial-text {
   font-style: italic;
