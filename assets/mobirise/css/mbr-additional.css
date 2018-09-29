@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
+
 body {
   font-style: normal;
   line-height: 1.5;
@@ -30,11 +31,11 @@ body {
   font-size: 2.4rem;
 }
 .display-4 {
-  font-family: 'SF Theramin Gothic Shaded';
-  font-size: 1.2rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 4rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 6.4rem;
 }
 .display-5 {
   font-family: 'one piece';
@@ -67,9 +68,9 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 4rem;
@@ -3106,10 +3107,10 @@ body {
   background-image: url("../../../assets/images/gabb-2000x2364.png");
 }
 .cid-r3kA2PcUqE H2 {
-  color: #7f1933;
+  color: #de2b58;
 }
 .cid-r3kA2PcUqE .mbr-section-subtitle {
-  color: #7f1933;
+  color: #de2b58;
 }
 .cid-r4En1dzMLx {
   padding-top: 90px;
@@ -3147,6 +3148,9 @@ body {
 }
 .cid-r4En1dzMLx .team-item .item-caption {
   background: #efefef;
+}
+.cid-r4En1dzMLx B {
+  color: #232323;
 }
 .cid-r3kDi9a1C0 {
   padding-top: 60px;
@@ -3626,7 +3630,7 @@ body {
 .cid-r4Ekaayqtt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dragon-ball-super-760x107434.jpg");
+  background-image: url("../../../assets/images/dragon-ball-super-760x107438.jpg");
 }
 @media (min-width: 992px) {
   .cid-r4Ekaayqtt .mbr-figure {
@@ -3666,6 +3670,12 @@ body {
   .cid-r4Er5Fy5vF .mbr-text {
     text-align: center;
   }
+}
+.cid-r4Er5Fy5vF H1 {
+  color: #000000;
+}
+.cid-r4Er5Fy5vF B {
+  color: #ffffff;
 }
 .cid-r50xmrxPbX {
   padding-top: 90px;
@@ -5797,7 +5807,7 @@ body {
 .cid-r4Etyhb2Zt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/doki-doki-732x109235.png");
+  background-image: url("../../../assets/images/doki-doki-732x109239.png");
 }
 @media (min-width: 992px) {
   .cid-r4Etyhb2Zt .mbr-figure {
@@ -6874,7 +6884,7 @@ body {
   text-align: center;
 }
 .cid-r51sCSbD3m .mbr-section-subtitle B {
-  color: #de2b58;
+  color: #cc2952;
 }
 .cid-r51sCU7VNg {
   padding-top: 60px;
